@@ -4,3 +4,4 @@ HELLO
 master
 feature 1.
 new.
+new2.
